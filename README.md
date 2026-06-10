@@ -1,5 +1,5 @@
 # CMSC320 Final Project
-### By: Yudiishbala S., Ethan Z., Arvind K.
+### By: Yudiishbala S. (@yudhiishvs), Ethan Z. (@realnumber1forever), and Arvind K. (@akakanav)
 
 
 # GitHub Repository
