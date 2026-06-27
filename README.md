@@ -1,5 +1,17 @@
 # CMSC320 Final Project
-### By: Yudiishbala S. (@yudhiishvs), Ethan Z. (@realnumber1forever), and Arvind K. (@akakanav)
+### By: Yudiishbala S. (_@yudhiishvs_), Ethan Z. (_@realnumber1forever_), and Arvind K. (_@akakanav_)
+
+
+# Table of Contents
+* [Title](https://github.com/yudhiishvs/cmsc320-final-project#cmsc320-final-project)
+  * [Authors](https://github.com/yudhiishvs/cmsc320-final-project#by-yudiishbala-s-yudhiishvs-ethan-z-realnumber1forever-and-arvind-k-akakanav)
+* [Table of Contents](https://github.com/yudhiishvs/cmsc320-final-project#table-of-contents)
+* [Repository Link](https://github.com/yudhiishvs/cmsc320-final-project#github-repository)
+* [Dataset Link](https://github.com/yudhiishvs/cmsc320-final-project#dataset)
+* [Initial Comments (_06/09/2026_)](https://github.com/yudhiishvs/cmsc320-final-project/tree/main#initial-dataset-comments-06092026)
+  * [What Dataset?](https://github.com/yudhiishvs/cmsc320-final-project#what-dataset-are-we-using)
+  * [Why Dataset?](https://github.com/yudhiishvs/cmsc320-final-project#why-are-we-using-this-dataset)
+* [Initial Exploration (_06/26/2026_)](https://github.com/yudhiishvs/cmsc320-final-project/tree/main#initial-data-visualizationexploration-06262026)
 
 
 # GitHub Repository
@@ -10,6 +22,7 @@ Link for GitHub Repository can be found here: https://github.com/yudhiishvs/cmsc
 Link of Project Dataset can be found here: https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95/about_data
 
 *NOTE: This dataset will automatically be updated on a daily basis as more data is collected. However, the final dataset version that we are using for this Project is up-to-date as of <u><b>26th June, 2026</b></u>.*
+
 
 # Initial Dataset Comments (_06/09/2026_)
 ## What Dataset Are We Using?
@@ -64,5 +77,9 @@ that contribute to the injuries that occur in NYC traffic collisions.
 Finally, this dataset provides our group with a stronger understanding and practical experience
 of using beneficial data science skills. Because this dataset has so many rows and columns of observations, we can start to identify meaningful patterns within this data and learn how to determine whether these patterns are statistically significant. We can use techniques and tools, such as data exploration and analysis, summary statistics, visualizations, hypothesis testing, and eventually explore various Machine Learning Models/Algorithms so that we can better understand the relationships between different crash characteristics and injury outcomes. By doing all of this, we hope that we can answer our research question in a manner that focuses solely on the data, and develop a deeper understanding of the factors that are associated with injury risk in NYC traffic collisions. We believe that this dataset is a good choice for our project because it is comprehensive, it is updated frequently, it is publicly available, and it is well suited for studying an important, prevalent issue that can impact millions of people’s lives every year.
 
+
 # Initial Data Visualization/Exploration (_06/26/2026_)
 See alternative `master` branch for an initial exploration and visualization of the aforementioned data set: https://github.com/yudhiishvs/cmsc320-final-project/tree/master 
+
+
+### [Back to Top](https://github.com/yudhiishvs/cmsc320-final-project#cmsc320-final-project)
