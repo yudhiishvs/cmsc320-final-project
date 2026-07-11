@@ -21,7 +21,7 @@ Link for GitHub Repository can be found here: https://github.com/yudhiishvs/cmsc
 # Dataset
 Link of Project Dataset can be found here: https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95/about_data
 
-*NOTE: This dataset will automatically be updated on a daily basis as more data is collected. However, the final dataset version that we are using for this Project is up-to-date as of <u><b>26th June, 2026</b></u>.*
+*NOTE: This dataset will automatically be updated on a daily basis as more data is collected. However, the final dataset version that we are using for this Project is up-to-date as of <u><b>15th June, 2026</b></u>.*
 
 
 # Initial Dataset Comments (_06/09/2026_)
