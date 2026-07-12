@@ -12,6 +12,7 @@
   * [What Dataset?](https://github.com/yudhiishvs/cmsc320-final-project#what-dataset-are-we-using)
   * [Why Dataset?](https://github.com/yudhiishvs/cmsc320-final-project#why-are-we-using-this-dataset)
 * [Initial Exploration (_06/26/2026_)](https://github.com/yudhiishvs/cmsc320-final-project/tree/main#initial-data-visualizationexploration-06262026)
+* [Final Project (_07/12/2026_)](https://github.com/yudhiishvs/cmsc320-final-project/tree/main#final-project-07122026)
 
 
 # GitHub Repository
@@ -80,6 +81,10 @@ of using beneficial data science skills. Because this dataset has so many rows a
 
 # Initial Data Visualization/Exploration (_06/26/2026_)
 See alternative `master` branch for an initial exploration and visualization of the aforementioned data set: https://github.com/yudhiishvs/cmsc320-final-project/tree/master 
+
+
+# Final Project (_07/12/2026_)
+See Final Version of our Project in the `CMSC320_FinalProject.ipynb` file! Thank you all! Enjoy!
 
 
 ### [Back to Top](https://github.com/yudhiishvs/cmsc320-final-project#cmsc320-final-project)
