@@ -84,7 +84,11 @@ See alternative `master` branch for an initial exploration and visualization of 
 
 
 # Final Project (_07/12/2026_)
-See Final Version of our Project in the `CMSC320_FinalProject.ipynb` file! Thank you all! Enjoy!
+See Final Version of our Project in the `CMSC320_FinalProject.ipynb` file!
+
+Additionally, visit https://akakanav.github.io/ for the final Project Version Tutorial Page (_from our final `index.html` file version!_)
+
+Thank you all! Enjoy!
 
 
 ### [Back to Top](https://github.com/yudhiishvs/cmsc320-final-project#cmsc320-final-project)
